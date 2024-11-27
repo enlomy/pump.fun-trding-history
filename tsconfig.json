@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "target": "ES6",
+    "lib": [
+      "ES2015"
+    ],
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "strict": true,
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
