@@ -26,6 +26,9 @@ I will describe the features following
 
 ## 📋 Demo
 
+https://github.com/user-attachments/assets/0b663737-5d27-44fb-bbd2-7913159a57da
+
+
 ## 📞 Contact Info
 
 ### Telegram: [enlomy](https://t.me/enlomy)
